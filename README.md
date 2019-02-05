@@ -1,0 +1,2 @@
+# ecosym
+a simulated ecosystem
